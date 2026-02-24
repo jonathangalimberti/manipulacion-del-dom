@@ -1,4 +1,4 @@
-- ¿Qué son los atributos y propiedades en HTML y JavaScript?
+**¿Qué son los atributos y propiedades en HTML y JavaScript?**
 
 Los atributos y propiedades son conceptos fundamentales que debes comprender para trabajar eficazmente con HTML y JavaScript. En pocas palabras, los atributos son las características que añadimos a las etiquetas HTML y las propiedades son su reflejo en el DOM, manipuladas mediante JavaScript.
 
@@ -44,7 +44,7 @@ Es importante destacar una diferencia crucial: los atributos en HTML reflejan el
 
 Al dominar estos conceptos, estarás en una mejor posición para crear y manipular documentos web de manera efectiva y dinámica. ¡Continúa explorando y experimentando para reforzar tu comprensión de JavaScript y HTML!
 
-¿Cómo modificar dinámicamente el texto de un elemento HTML?
+**¿Cómo modificar dinámicamente el texto de un elemento HTML?**
 
 Modificar el texto de un elemento HTML de manera dinámica es una habilidad esencial para cualquier desarrollador web. Este conocimiento te permite cambiar el contenido de una página web en respuesta a interacciones del usuario, mejorando significativamente la experiencia del usuario. A continuación, exploraremos cómo lograr esta modificación utilizando la consola del navegador y JavaScript.
 
